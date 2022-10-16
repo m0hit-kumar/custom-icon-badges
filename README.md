@@ -59,6 +59,8 @@ All [250+ Octicons](https://primer.style/octicons/) from GitHub are supported by
 [git-pull-request]: https://custom-icon-badges.demolab.com/badge/Pull%20Request-purple.svg?logo=pr
 [heart]: https://custom-icon-badges.demolab.com/badge/Heart-D15E9B.svg?logo=heart
 [mail]: https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail
+[cool]:https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=cool
+
 
 ### Miscellaneous
 
@@ -67,7 +69,11 @@ All [250+ Octicons](https://primer.style/octicons/) from GitHub are supported by
 | [![ceylon][ceylon]][ceylon]                      | [![color-swatch][color-swatch]][color-swatch] | [![controller][controller]][controller] | [![issue][issue]][issue]                   |
 | [![fire][fire]][fire]                            | [![flag][flag]][flag]                         | [![translate][translate]][translate]    | [![trending-up][trending-up]][trending-up] |
 | [![trending-down][trending-down]][trending-down] | [![phone][phone]][phone]                      | [![pygame][pygame]][pygame]             | [![grey-pygame][grey-pygame]][grey-pygame] |
-| Add your own!                                    | [![Upload Icon][uploadicon]][uploadicon]      |                                         |                                            |
+| Add your own!                                    | [![Upload Icon][uploadicon]][uploadicon]      |     [![cool][cool]][cool]               |                                               |
+
+ 
+
+
 
 [ceylon]: https://custom-icon-badges.demolab.com/badge/ceylon-E39842.svg?logo=ceylon&logoColor=fff
 [color-swatch]: https://custom-icon-badges.demolab.com/badge/color--swatch-green.svg?logo=color-swatch&logoColor=fff
